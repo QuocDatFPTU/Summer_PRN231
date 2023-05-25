@@ -1,0 +1,15 @@
+D:\Private\FPT\Source\SUMMER_2023\As_1\NguyenQuocDat_SE1608_A01\NguyenQuocDat_SE1608_A01.Infrastracture\bin\Debug\net5.0\NguyenQuocDat_SE1608_A01.Infrastracture.deps.json
+D:\Private\FPT\Source\SUMMER_2023\As_1\NguyenQuocDat_SE1608_A01\NguyenQuocDat_SE1608_A01.Infrastracture\bin\Debug\net5.0\NguyenQuocDat_SE1608_A01.Infrastracture.dll
+D:\Private\FPT\Source\SUMMER_2023\As_1\NguyenQuocDat_SE1608_A01\NguyenQuocDat_SE1608_A01.Infrastracture\bin\Debug\net5.0\NguyenQuocDat_SE1608_A01.Infrastracture.pdb
+D:\Private\FPT\Source\SUMMER_2023\As_1\NguyenQuocDat_SE1608_A01\NguyenQuocDat_SE1608_A01.Infrastracture\obj\Debug\net5.0\NguyenQuocDat_SE1608_A01.Infrastracture.csproj.AssemblyReference.cache
+D:\Private\FPT\Source\SUMMER_2023\As_1\NguyenQuocDat_SE1608_A01\NguyenQuocDat_SE1608_A01.Infrastracture\obj\Debug\net5.0\NguyenQuocDat_SE1608_A01.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\FPT\Source\SUMMER_2023\As_1\NguyenQuocDat_SE1608_A01\NguyenQuocDat_SE1608_A01.Infrastracture\obj\Debug\net5.0\NguyenQuocDat_SE1608_A01.Infrastracture.AssemblyInfoInputs.cache
+D:\Private\FPT\Source\SUMMER_2023\As_1\NguyenQuocDat_SE1608_A01\NguyenQuocDat_SE1608_A01.Infrastracture\obj\Debug\net5.0\NguyenQuocDat_SE1608_A01.Infrastracture.AssemblyInfo.cs
+D:\Private\FPT\Source\SUMMER_2023\As_1\NguyenQuocDat_SE1608_A01\NguyenQuocDat_SE1608_A01.Infrastracture\obj\Debug\net5.0\NguyenQuocDat_SE1608_A01.Infrastracture.csproj.CoreCompileInputs.cache
+D:\Private\FPT\Source\SUMMER_2023\As_1\NguyenQuocDat_SE1608_A01\NguyenQuocDat_SE1608_A01.Infrastracture\obj\Debug\net5.0\NguyenQuocDat_SE1608_A01.Infrastracture.dll
+D:\Private\FPT\Source\SUMMER_2023\As_1\NguyenQuocDat_SE1608_A01\NguyenQuocDat_SE1608_A01.Infrastracture\obj\Debug\net5.0\refint\NguyenQuocDat_SE1608_A01.Infrastracture.dll
+D:\Private\FPT\Source\SUMMER_2023\As_1\NguyenQuocDat_SE1608_A01\NguyenQuocDat_SE1608_A01.Infrastracture\obj\Debug\net5.0\NguyenQuocDat_SE1608_A01.Infrastracture.pdb
+D:\Private\FPT\Source\SUMMER_2023\As_1\NguyenQuocDat_SE1608_A01\NguyenQuocDat_SE1608_A01.Infrastracture\obj\Debug\net5.0\ref\NguyenQuocDat_SE1608_A01.Infrastracture.dll
+D:\Private\FPT\Source\SUMMER_2023\As_1\NguyenQuocDat_SE1608_A01\NguyenQuocDat_SE1608_A01.Infrastracture\bin\Debug\net5.0\NguyenQuocDat_SE1608_A01.Core.dll
+D:\Private\FPT\Source\SUMMER_2023\As_1\NguyenQuocDat_SE1608_A01\NguyenQuocDat_SE1608_A01.Infrastracture\bin\Debug\net5.0\NguyenQuocDat_SE1608_A01.Core.pdb
+D:\Private\FPT\Source\SUMMER_2023\As_1\NguyenQuocDat_SE1608_A01\NguyenQuocDat_SE1608_A01.Infrastracture\obj\Debug\net5.0\NguyenQuocDat_SE1608_A01.Infrastracture.csproj.CopyComplete

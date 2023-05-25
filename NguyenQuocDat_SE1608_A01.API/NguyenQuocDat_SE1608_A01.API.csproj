@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NguyenQuocDat_SE1608_A01.Application\NguyenQuocDat_SE1608_A01.Application.csproj" />
+    <ProjectReference Include="..\NguyenQuocDat_SE1608_A01.Core\NguyenQuocDat_SE1608_A01.Core.csproj" />
+    <ProjectReference Include="..\NguyenQuocDat_SE1608_A01.Infrastracture\NguyenQuocDat_SE1608_A01.Infrastracture.csproj" />
+  </ItemGroup>
+
+</Project>
