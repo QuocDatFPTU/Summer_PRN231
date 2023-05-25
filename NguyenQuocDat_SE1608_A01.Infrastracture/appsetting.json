@@ -1,0 +1,10 @@
+{
+
+  "ConnectionStrings": {
+    "FuFlowerSystem": "Server=(local);Uid=sa;Pwd=12345678;Database=FUFlowerBouquetManagement"
+  },
+  "Admin": {
+    "UserName": "admin@FUflowerbouquet.com",
+    "Pwd": "admin@@"
+  }
+}

@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace NguyenQuocDat_SE1608_A01.Core.Entities
 {
-    public partial class Customer
+    public class Customer
     {
         public Customer()
         {

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Private\\FPT\\Source\\SUMMER_2023\\As_1\\NguyenQuocDat_SE1608_A01\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj": {}
+    "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj": {}
   },
   "projects": {
-    "D:\\Private\\FPT\\Source\\SUMMER_2023\\As_1\\NguyenQuocDat_SE1608_A01\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj": {
+    "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Private\\FPT\\Source\\SUMMER_2023\\As_1\\NguyenQuocDat_SE1608_A01\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj",
+        "projectUniqueName": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj",
         "projectName": "NguyenQuocDat_SE1608_A01.Core",
-        "projectPath": "D:\\Private\\FPT\\Source\\SUMMER_2023\\As_1\\NguyenQuocDat_SE1608_A01\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj",
-        "packagesPath": "C:\\Users\\QuocDat\\.nuget\\packages\\",
-        "outputPath": "D:\\Private\\FPT\\Source\\SUMMER_2023\\As_1\\NguyenQuocDat_SE1608_A01\\NguyenQuocDat_SE1608_A01.Core\\obj\\",
+        "projectPath": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj",
+        "packagesPath": "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\QuocDat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nguyen Quoc Dat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

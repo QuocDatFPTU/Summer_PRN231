@@ -5,7 +5,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NguyenQuocDat_SE1608_A01.Core\NguyenQuocDat_SE1608_A01.Core.csproj" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\NguyenQuocDat_SE1608_A01.Core\NguyenQuocDat_SE1608_A01.Core.csproj" />
+  </ItemGroup>
+	<ItemGroup>
+		<None Update="appsetting.json">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
 </Project>

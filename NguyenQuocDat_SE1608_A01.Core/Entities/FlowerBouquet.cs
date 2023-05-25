@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 #nullable disable
 
@@ -11,12 +12,13 @@ namespace NguyenQuocDat_SE1608_A01.Core.Entities
         {
             OrderDetails = new HashSet<OrderDetail>();
         }
-
+        [Required]
         public int FlowerBouquetId { get; set; }
+        [Required]
         public int CategoryId { get; set; }
-        public string FlowerBouquetName { get; set; }
-        public string Description { get; set; }
-        public decimal UnitPrice { get; set; }
+        public string? FlowerBouquetName { get; set; }
+        public string? Description { get; set; }
+        public decimal? UnitPrice { get; set; }
         public int UnitsInStock { get; set; }
         public byte? FlowerBouquetStatus { get; set; }
         public int? SupplierId { get; set; }
