@@ -31,9 +31,6 @@
               "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Application\\NguyenQuocDat_SE1608_A01.Application.csproj": {
                 "projectPath": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Application\\NguyenQuocDat_SE1608_A01.Application.csproj"
               },
-              "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj": {
-                "projectPath": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj"
-              },
               "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Infrastracture\\NguyenQuocDat_SE1608_A01.Infrastracture.csproj": {
                 "projectPath": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Infrastracture\\NguyenQuocDat_SE1608_A01.Infrastracture.csproj"
               }
@@ -104,9 +101,6 @@
             "projectReferences": {
               "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj": {
                 "projectPath": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj"
-              },
-              "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Infrastracture\\NguyenQuocDat_SE1608_A01.Infrastracture.csproj": {
-                "projectPath": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Infrastracture\\NguyenQuocDat_SE1608_A01.Infrastracture.csproj"
               }
             }
           }
@@ -120,6 +114,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -235,6 +239,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Application\\NguyenQuocDat_SE1608_A01.Application.csproj": {
+                "projectPath": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Application\\NguyenQuocDat_SE1608_A01.Application.csproj"
+              },
               "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj": {
                 "projectPath": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj"
               }
@@ -251,9 +258,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [

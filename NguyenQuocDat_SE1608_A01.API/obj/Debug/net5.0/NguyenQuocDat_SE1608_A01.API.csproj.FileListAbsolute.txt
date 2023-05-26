@@ -81,6 +81,7 @@ D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\M
 D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
 D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
 D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
@@ -96,6 +97,7 @@ D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\S
 D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
 D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
 D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
@@ -113,8 +115,8 @@ D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\N
 D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\NguyenQuocDat_SE1608_A01.Core.dll
 D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\NguyenQuocDat_SE1608_A01.Infrastracture.dll
 D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\NguyenQuocDat_SE1608_A01.Application.pdb
-D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\NguyenQuocDat_SE1608_A01.Core.pdb
 D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\NguyenQuocDat_SE1608_A01.Infrastracture.pdb
+D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\bin\Debug\net5.0\NguyenQuocDat_SE1608_A01.Core.pdb
 D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\obj\Debug\net5.0\NguyenQuocDat_SE1608_A01.API.csproj.AssemblyReference.cache
 D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\obj\Debug\net5.0\NguyenQuocDat_SE1608_A01.API.GeneratedMSBuildEditorConfig.editorconfig
 D:\Personal\PRN231\Summer_PRN231\NguyenQuocDat_SE1608_A01.API\obj\Debug\net5.0\NguyenQuocDat_SE1608_A01.API.AssemblyInfoInputs.cache

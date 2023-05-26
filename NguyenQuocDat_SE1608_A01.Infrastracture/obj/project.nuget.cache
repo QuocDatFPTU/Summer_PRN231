@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RqugR2oRNUXheZVMH3lFUbt5H1pEjgZg5Jozbt7Nb9JOPBHOWLJZphlLp53Ik+jKeHUU/okDFu1kZVLtqSvrBw==",
+  "dgSpecHash": "8Jjki4qtzYCIuattXiXQQ6n+AnD1TkALte9zYYJQeLbBZuZO0G40VqZa63MsnRINfkD2fLTmjGTtXANBJOuhdg==",
   "success": true,
   "projectFilePath": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Infrastracture\\NguyenQuocDat_SE1608_A01.Infrastracture.csproj",
   "expectedPackageFiles": [
@@ -18,8 +18,8 @@
     "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
     "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
-    "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
-    "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
     "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
@@ -78,6 +78,7 @@
     "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
     "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\system.runtime.caching\\4.7.0\\system.runtime.caching.4.7.0.nupkg.sha512",
+    "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
     "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
