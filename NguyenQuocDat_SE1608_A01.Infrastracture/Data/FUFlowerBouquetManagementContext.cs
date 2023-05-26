@@ -1,12 +1,16 @@
 ﻿using System;
+using System.IO;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.Extensions.Configuration;
+using NguyenQuocDat_SE1608_A01.Application.Contracts.Data;
+using NguyenQuocDat_SE1608_A01.Core.Entities;
 
 #nullable disable
 
-namespace NguyenQuocDat_SE1608_A01.Core.Entities
+namespace NguyenQuocDat_SE1608_A01.Application.Data
 {
-    public partial class FUFlowerBouquetManagementContext : DbContext
+    public partial class FUFlowerBouquetManagementContext : DbContext, IFUFlowerBouquetManagementContext
     {
         public FUFlowerBouquetManagementContext()
         {
@@ -18,20 +22,20 @@ namespace NguyenQuocDat_SE1608_A01.Core.Entities
         }
 
         public virtual DbSet<Category> Categories { get; set; }
-        public virtual DbSet<Customer> Customers { get; set; }
+        public DbSet<Customer> Customers { get; set; }
         public virtual DbSet<FlowerBouquet> FlowerBouquets { get; set; }
         public virtual DbSet<Order> Orders { get; set; }
         public virtual DbSet<OrderDetail> OrderDetails { get; set; }
         public virtual DbSet<Supplier> Suppliers { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            if (!optionsBuilder.IsConfigured)
-            {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseSqlServer("Server=DESKTOP-HG98LEV\\QUOCDAT;Database=FUFlowerBouquetManagement;Trusted_Connection=True;");
-            }
-        }
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    var builder = new ConfigurationBuilder()
+        //        .SetBasePath(Directory.GetCurrentDirectory())
+        //        .AddJsonFile("appsetting.json", optional: true, reloadOnChange: true);
+        //    IConfigurationRoot configuration = builder.Build();
+        //    optionsBuilder.UseSqlServer(configuration.GetConnectionString("FuFlowerSystem"));
+        //}
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

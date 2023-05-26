@@ -7,6 +7,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using NguyenQuocDat_SE1608_A01.Application;
+using NguyenQuocDat_SE1608_A01.Infrastracture;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,6 +29,8 @@ namespace NguyenQuocDat_SE1608_A01.API
         public void ConfigureServices(IServiceCollection services)
         {
 
+            services.RegisterInfrastructerServices(Configuration);
+            services.RegistserApplicationServices(Configuration);
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

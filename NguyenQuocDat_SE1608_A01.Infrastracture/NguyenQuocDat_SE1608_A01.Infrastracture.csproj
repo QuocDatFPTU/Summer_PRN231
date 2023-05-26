@@ -2,10 +2,18 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+	<NoWarn></NoWarn>
   </PropertyGroup>
 
+	
   <ItemGroup>
-    <ProjectReference Include="..\NguyenQuocDat_SE1608_A01.Core\NguyenQuocDat_SE1608_A01.Core.csproj" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\NguyenQuocDat_SE1608_A01.Application\NguyenQuocDat_SE1608_A01.Application.csproj" />
+    <ProjectReference Include="..\NguyenQuocDat_SE1608_A01.Core\NguyenQuocDat_SE1608_A01.Core.csproj" />
+  </ItemGroup>
 </Project>

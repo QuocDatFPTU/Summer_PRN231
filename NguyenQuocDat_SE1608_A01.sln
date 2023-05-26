@@ -3,13 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NguyenQuocDat_SE1608_A01.API", "NguyenQuocDat_SE1608_A01.API\NguyenQuocDat_SE1608_A01.API.csproj", "{EEB80997-E895-4BEE-9276-1F5048985196}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NguyenQuocDat_SE1608_A01.API", "NguyenQuocDat_SE1608_A01.API\NguyenQuocDat_SE1608_A01.API.csproj", "{EEB80997-E895-4BEE-9276-1F5048985196}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NguyenQuocDat_SE1608_A01.Application", "NguyenQuocDat_SE1608_A01.Application\NguyenQuocDat_SE1608_A01.Application.csproj", "{40BEE0EF-D7AF-4E7C-B97F-F1CCD5BA33EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NguyenQuocDat_SE1608_A01.Application", "NguyenQuocDat_SE1608_A01.Application\NguyenQuocDat_SE1608_A01.Application.csproj", "{40BEE0EF-D7AF-4E7C-B97F-F1CCD5BA33EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NguyenQuocDat_SE1608_A01.Core", "NguyenQuocDat_SE1608_A01.Core\NguyenQuocDat_SE1608_A01.Core.csproj", "{1BFE6555-ED88-444C-9FE4-CD6F5809AD32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NguyenQuocDat_SE1608_A01.Core", "NguyenQuocDat_SE1608_A01.Core\NguyenQuocDat_SE1608_A01.Core.csproj", "{1BFE6555-ED88-444C-9FE4-CD6F5809AD32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NguyenQuocDat_SE1608_A01.Infrastracture", "NguyenQuocDat_SE1608_A01.Infrastracture\NguyenQuocDat_SE1608_A01.Infrastracture.csproj", "{8864BF29-ABA5-4394-B472-E122510BDCA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NguyenQuocDat_SE1608_A01.Infrastracture", "NguyenQuocDat_SE1608_A01.Infrastracture\NguyenQuocDat_SE1608_A01.Infrastracture.csproj", "{8864BF29-ABA5-4394-B472-E122510BDCA9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0E116C8A-FBE0-44C7-8B58-1322FE5369C4}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

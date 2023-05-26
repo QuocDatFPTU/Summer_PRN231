@@ -1,20 +1,89 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Private\\FPT\\Source\\SUMMER_2023\\As_1\\NguyenQuocDat_SE1608_A01\\NguyenQuocDat_SE1608_A01.Infrastracture\\NguyenQuocDat_SE1608_A01.Infrastracture.csproj": {}
+    "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Infrastracture\\NguyenQuocDat_SE1608_A01.Infrastracture.csproj": {}
   },
   "projects": {
-    "D:\\Private\\FPT\\Source\\SUMMER_2023\\As_1\\NguyenQuocDat_SE1608_A01\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj": {
+    "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Application\\NguyenQuocDat_SE1608_A01.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Private\\FPT\\Source\\SUMMER_2023\\As_1\\NguyenQuocDat_SE1608_A01\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj",
-        "projectName": "NguyenQuocDat_SE1608_A01.Core",
-        "projectPath": "D:\\Private\\FPT\\Source\\SUMMER_2023\\As_1\\NguyenQuocDat_SE1608_A01\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj",
-        "packagesPath": "C:\\Users\\QuocDat\\.nuget\\packages\\",
-        "outputPath": "D:\\Private\\FPT\\Source\\SUMMER_2023\\As_1\\NguyenQuocDat_SE1608_A01\\NguyenQuocDat_SE1608_A01.Core\\obj\\",
+        "projectUniqueName": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Application\\NguyenQuocDat_SE1608_A01.Application.csproj",
+        "projectName": "NguyenQuocDat_SE1608_A01.Application",
+        "projectPath": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Application\\NguyenQuocDat_SE1608_A01.Application.csproj",
+        "packagesPath": "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\QuocDat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nguyen Quoc Dat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj": {
+                "projectPath": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj",
+        "projectName": "NguyenQuocDat_SE1608_A01.Core",
+        "projectPath": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj",
+        "packagesPath": "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nguyen Quoc Dat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,17 +144,17 @@
         }
       }
     },
-    "D:\\Private\\FPT\\Source\\SUMMER_2023\\As_1\\NguyenQuocDat_SE1608_A01\\NguyenQuocDat_SE1608_A01.Infrastracture\\NguyenQuocDat_SE1608_A01.Infrastracture.csproj": {
+    "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Infrastracture\\NguyenQuocDat_SE1608_A01.Infrastracture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Private\\FPT\\Source\\SUMMER_2023\\As_1\\NguyenQuocDat_SE1608_A01\\NguyenQuocDat_SE1608_A01.Infrastracture\\NguyenQuocDat_SE1608_A01.Infrastracture.csproj",
+        "projectUniqueName": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Infrastracture\\NguyenQuocDat_SE1608_A01.Infrastracture.csproj",
         "projectName": "NguyenQuocDat_SE1608_A01.Infrastracture",
-        "projectPath": "D:\\Private\\FPT\\Source\\SUMMER_2023\\As_1\\NguyenQuocDat_SE1608_A01\\NguyenQuocDat_SE1608_A01.Infrastracture\\NguyenQuocDat_SE1608_A01.Infrastracture.csproj",
-        "packagesPath": "C:\\Users\\QuocDat\\.nuget\\packages\\",
-        "outputPath": "D:\\Private\\FPT\\Source\\SUMMER_2023\\As_1\\NguyenQuocDat_SE1608_A01\\NguyenQuocDat_SE1608_A01.Infrastracture\\obj\\",
+        "projectPath": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Infrastracture\\NguyenQuocDat_SE1608_A01.Infrastracture.csproj",
+        "packagesPath": "C:\\Users\\Nguyen Quoc Dat\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Infrastracture\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\QuocDat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nguyen Quoc Dat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -99,8 +168,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Private\\FPT\\Source\\SUMMER_2023\\As_1\\NguyenQuocDat_SE1608_A01\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj": {
-                "projectPath": "D:\\Private\\FPT\\Source\\SUMMER_2023\\As_1\\NguyenQuocDat_SE1608_A01\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj"
+              "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Application\\NguyenQuocDat_SE1608_A01.Application.csproj": {
+                "projectPath": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Application\\NguyenQuocDat_SE1608_A01.Application.csproj"
+              },
+              "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj": {
+                "projectPath": "D:\\Personal\\PRN231\\Summer_PRN231\\NguyenQuocDat_SE1608_A01.Core\\NguyenQuocDat_SE1608_A01.Core.csproj"
               }
             }
           }
@@ -114,6 +186,20 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
